@@ -1,4 +1,4 @@
-import unittest
+import pytest
 from vectorizer import Vectorizer
 
 class TestVectorizer(unittest.TestCase):
@@ -20,6 +20,3 @@ class TestVectorizer(unittest.TestCase):
         self.assertIsInstance(caps_ratio, float)
         self.assertIsInstance(exclam_count, int)
         self.assertIsInstance(token_len, int)
-
-if __name__ == "__main__":
-    unittest.main()
