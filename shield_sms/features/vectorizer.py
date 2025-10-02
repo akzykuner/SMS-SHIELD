@@ -1,6 +1,5 @@
-
-from dataclasses import dataclass
-from typing import List, Optional, Dict, Any
+from dataclasses import dataclass, field
+from typing import List, Optional
 import json
 import os
 import numpy as np
@@ -11,21 +10,39 @@ from ..text.preprocess import preprocess_text
 
 @dataclass
 class FeatureSchema:
-    tfidf_order: List[str]
-    struct_order: List[str]
+    tfidf_order: List[str] = field(default_factory=list)
+    struct_order: List[str] = field(default_factory=list)
+
+    @classmethod
+    def from_dict(cls, data: dict):
+        tfidf_order = data.get("tfidf_features", [])
+        struct_order = data.get("structural_features", [])
+        return cls(tfidf_order=tfidf_order, struct_order=struct_order)
 
 class CustomVectorizer:
     def __init__(self, schema_path: Optional[str] = None):
         if schema_path and os.path.exists(schema_path):
             with open(schema_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            self.schema = FeatureSchema(**data)
-            self.vectorizer = TfidfVectorizer(ngram_range=(1,2), vocabulary=self.schema.tfidf_order, tokenizer=preprocess_text, preprocessor=lambda x: x)
+            self.schema = FeatureSchema.from_dict(data)
+            self.vectorizer = TfidfVectorizer(
+                ngram_range=(1, 2),
+                vocabulary=self.schema.tfidf_order,
+                tokenizer=preprocess_text,
+                preprocessor=lambda x: x,
+            )
         else:
-            # fallback: small default vocab; can be extended by fit()
-            default_vocab = ["gana","bono","ahora","urgente","cuenta","verifique"]
-            self.schema = FeatureSchema(tfidf_order=default_vocab, struct_order=["caps_ratio","exclam_count","token_len_avg","has_short_url","looks_like_brand"])
-            self.vectorizer = TfidfVectorizer(ngram_range=(1,2), vocabulary=self.schema.tfidf_order, tokenizer=preprocess_text, preprocessor=lambda x: x)
+            default_vocab = ["gana", "bono", "ahora", "urgente", "cuenta", "verifique"]
+            self.schema = FeatureSchema(
+                tfidf_order=default_vocab,
+                struct_order=["caps_ratio", "exclam_count", "token_len_avg", "has_short_url", "looks_like_brand"],
+            )
+            self.vectorizer = TfidfVectorizer(
+                ngram_range=(1, 2),
+                vocabulary=self.schema.tfidf_order,
+                tokenizer=preprocess_text,
+                preprocessor=lambda x: x,
+            )
 
     def _struct_features(self, text: str) -> np.ndarray:
         letters = sum(c.isalpha() for c in text)
@@ -35,7 +52,6 @@ class CustomVectorizer:
         tokens = preprocess_text(text)
         token_len_avg = (sum(len(t) for t in tokens) / len(tokens)) if tokens else 0.0
 
-        # URL-based flags
         urls = extract_urls(text)
         has_short = 1 if any(is_short_url(u) for u in urls) else 0
         like_brand = 0
