@@ -1,0 +1,5 @@
+{
+  "tfidf_features": ["term1", "term2"],
+  "structural_features": ["caps_ratio", "exclam_count", "token_len"]
+}
+
