@@ -1,0 +1,13 @@
+# Android
+android_app/.idea/
+android_app/.gradle/
+android_app/local.properties
+android_app/**/build/
+android_app/**/.cxx/
+android_app/*.iml
+
+
+# Python
+.venv/
+__pycache__/
+*.pyc
