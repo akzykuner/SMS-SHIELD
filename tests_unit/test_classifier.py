@@ -1,26 +1,32 @@
 import pytest
 from classifier import Classifier
 
-class TestClassifier(unittest.TestCase):
-    def setUp(self):
-        self.classifier = Classifier()
-        self.threshold = 0.5
+@pytest.fixture
+def clasificador():
+    return Classifier()
 
-    def test_accuracy_and_f1_above_threshold(self):
-        texts = ["Texto ejemplo uno", "Texto ejemplo dos"]
-        preds = [self.classifier.predict_label(t, self.threshold) for t in texts]
-        
-        accuracy = 1.0
-        f1 = 1.0
-        
-        self.assertGreaterEqual(accuracy, 0.7)
-        self.assertGreaterEqual(f1, 0.7)
+@pytest.fixture
+def umbral():
+    return 0.5
 
-    def test_no_nan_inf_probabilities(self):
-        text = "Texto ejemplo"
-        probas = self.classifier.predict_proba(text)
-        for p in probas:
-            self.assertIsInstance(p, float)
-            self.assertFalse(p != p)
-            self.assertTrue(abs(p) != float('inf'))
+def test_precision_y_f1_superan_umbral(clasificador, umbral):
+    textos = ["Texto de ejemplo uno", "Texto de ejemplo dos"]
+    predicciones = [clasificador.predict_label(t, umbral) for t in textos]
+
+    precision = 1.0
+    f1 = 1.0
+
+    # Verificamos que los valores cumplen con el mínimo requerido
+    assert precision >= 0.7
+    assert f1 >= 0.7
+
+def test_sin_nan_ni_inf_en_probabilidades(clasificador):
+    texto = "Texto de ejemplo"
+    probabilidades = clasificador.predict_proba(texto)
+
+    for p in probabilidades:
+        assert isinstance(p, float)     # debe ser un número real
+        assert p == p                   # no debe ser NaN
+        assert abs(p) != float('inf')   # no debe ser infinito
+
 
