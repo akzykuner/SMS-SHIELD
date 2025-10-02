@@ -1,6 +1,0 @@
-[
-  {"id":"fx1","text":"URGENTE: verifique su cuenta en bit.ly/xyz123","label":"smishing"},
-  {"id":"fx2","text":"Nos vemos a las 7pm","label":"ham"},
-  {"id":"fx3","text":"Visite http://192.168.1.1 para activar su cuenta","label":"smishing"},
-  {"id":"fx4","text":"Acceda a https://banc0-nacion.pe/clave","label":"smishing"}
-]
