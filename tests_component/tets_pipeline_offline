@@ -1,15 +1,20 @@
-import unittest
+import pytest
 from classifier import Classifier
 
-class TestPipeline(unittest.TestCase):
-    def test_pipeline_offline(self):
-        clf = Classifier()
-        text = "Texto ejemplo pipeline"
-        proba = clf.predict_proba(text)
-        label = clf.predict_label(text, 0.5)
-        self.assertIsNotNone(proba)
-        self.assertIsInstance(label, int)
+@pytest.fixture
+def clasificador():
+    return Classifier()
 
-if __name__ == "__main__":
-    unittest.main()
+def test_pipeline_offline(clasificador):
+    texto = "Texto de ejemplo para pipeline"
+    
+    proba = clasificador.predict_proba(texto)
+    etiqueta = clasificador.predict_label(texto, 0.5)
+
+    # Verificamos que la probabilidad no sea None
+    assert proba is not None
+    
+    # La etiqueta debe ser un número entero (ej. 0 o 1)
+    assert isinstance(etiqueta, int)
+
 
