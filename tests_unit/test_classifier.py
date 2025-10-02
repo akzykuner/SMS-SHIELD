@@ -1,4 +1,4 @@
-import unittest
+import pytest
 from classifier import Classifier
 
 class TestClassifier(unittest.TestCase):
@@ -23,7 +23,4 @@ class TestClassifier(unittest.TestCase):
             self.assertIsInstance(p, float)
             self.assertFalse(p != p)
             self.assertTrue(abs(p) != float('inf'))
-
-if __name__ == "__main__":
-    unittest.main()
 
