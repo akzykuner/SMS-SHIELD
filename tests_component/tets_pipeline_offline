@@ -1,0 +1,20 @@
+import pytest
+from classifier import Classifier
+
+@pytest.fixture
+def clasificador():
+    return Classifier()
+
+def test_pipeline_offline(clasificador):
+    texto = "Texto de ejemplo para pipeline"
+    
+    proba = clasificador.predict_proba(texto)
+    etiqueta = clasificador.predict_label(texto, 0.5)
+
+    # Verificamos que la probabilidad no sea None
+    assert proba is not None
+    
+    # La etiqueta debe ser un número entero (ej. 0 o 1)
+    assert isinstance(etiqueta, int)
+
+

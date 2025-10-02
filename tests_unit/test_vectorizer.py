@@ -1,25 +1,25 @@
-import unittest
+import pytest
 from vectorizer import Vectorizer
 
-class TestVectorizer(unittest.TestCase):
-    def setUp(self):
-        self.vectorizer = Vectorizer()
+@pytest.fixture
+def vectorizador():
+    return Vectorizer()
 
-    def test_vector_size_and_structure(self):
-        text1 = "Texto de prueba uno!"
-        text2 = "Otro texto para prueba."
-        
-        vec1 = self.vectorizer.vectorize(text1)
-        vec2 = self.vectorizer.vectorize(text2)
-        
-        self.assertEqual(len(vec1), len(vec2))
-        
-        caps_ratio = vec1[-3]
-        exclam_count = vec1[-2]
-        token_len = vec1[-1]
-        self.assertIsInstance(caps_ratio, float)
-        self.assertIsInstance(exclam_count, int)
-        self.assertIsInstance(token_len, int)
+def test_mismo_tamano_y_estructura(vectorizador):
+    texto1 = "Texto de prueba uno!"
+    texto2 = "Otro texto para prueba."
+    
+    vec1 = vectorizador.vectorize(texto1)
+    vec2 = vectorizador.vectorize(texto2)
+    
+    # Ambos vectores deben tener la misma longitud
+    assert len(vec1) == len(vec2)
+    
+    # Verificamos tipos de las últimas posiciones (rasgos estructurales)
+    caps_ratio = vec1[-3]
+    exclam_count = vec1[-2]
+    token_len = vec1[-1]
 
-if __name__ == "__main__":
-    unittest.main()
+    assert isinstance(caps_ratio, float)
+    assert isinstance(exclam_count, int)
+    assert isinstance(token_len, int)
