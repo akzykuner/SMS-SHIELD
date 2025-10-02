@@ -1,0 +1,6 @@
+id,text,label
+g1,"Confirme sus datos en https://seguro-bn.pe/cliente",smishing
+g2,"Te llamo luego",ham
+g3,"ACTUALIZA tu CLAVE aquí: t.co/abc",smishing
+g4,"Reunión 7pm sala 2",ham
+g5,"URGENTE: verifique su cuenta en bit.ly/xyz123",smishing
