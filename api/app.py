@@ -76,3 +76,7 @@ def feedback(payload: FeedbackRequest):
         return {"status": "ok"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error saving feedback: {e}")
+    
+@app.get("/")
+def root():
+    return {"status": "Achalma bot"}

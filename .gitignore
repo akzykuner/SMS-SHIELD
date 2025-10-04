@@ -7,7 +7,45 @@ android_app/**/.cxx/
 android_app/*.iml
 
 
-# Python
-.venv/
+# ==========================
+# PYTHON
+# ==========================
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Byte-compiled cache
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Logs y data temporal
+*.log
+*.tmp
+
+# ==========================
+# IDEs
+# ==========================
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# ==========================
+# OTRAS
+# ==========================
+# Mac / Windows / Linux basura
+.DS_Store
+Thumbs.db
