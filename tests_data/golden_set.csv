@@ -1,6 +1,1208 @@
-id,text,label
-g1,"Confirme sus datos en https://seguro-bn.pe/cliente",smishing
-g2,"Te llamo luego",ham
-g3,"ACTUALIZA tu CLAVE aquí: t.co/abc",smishing
-g4,"Reunión 7pm sala 2",ham
-g5,"URGENTE: verifique su cuenta en bit.ly/xyz123",smishing
+id,"text",label
+g1,"Compra ahora y recibe un descuento especial",ham
+g2,"Haz clic aqui para ganar un premio",smishing
+g3,"Tu ordenador tiene un virus",smishing
+g4,"Descubre como perder peso rapidamente",smishing
+g5,"Necesitas ayuda con tu tarea",ham
+g6,"Gana dinero desde casa sin esfuerzo",smishing
+g7,"Reclama tu herencia de un pariente lejano",smishing
+g8,"Mejora tu rendimiento sexual con este producto",smishing
+g9,"Por favor responde a esta encuesta",ham
+g10,"Invierte en esta oportunidad unica y hazte rico",smishing
+g11,"Comparte este mensaje con tus amigos",ham
+g12,"Obten un prestamo facilmente sin verificacion de credito",smishing
+g13,"Felicidades has ganado un telefono nuevo",smishing
+g14,"Necesitamos verificar tu cuenta bancaria",smishing
+g15,"Aprende ingles en solo 10 dias",smishing
+g16,"Gracias por tu compra",ham
+g17,"Trabaja desde casa y gana mucho dinero",smishing
+g18,"Este es un mensaje importante de tu banco",smishing
+g19,"Aumenta tu tamano con estas pastillas milagrosas",smishing
+g20,"Hola soy tu vecino y necesito un favor",ham
+g21,"Has sido seleccionado para una oferta exclusiva",smishing
+g22,"Descarga este software gratis ahora",smishing
+g23,"Conoce solteras calientes en tu area",smishing
+g24,"Por favor confirma tu suscripcion",ham
+g25,"Obten un descuento del 50% en tu proximo viaje",smishing
+g26,"Tu paquete esta listo para ser recogido",smishing
+g27,"Unete a nuestro club de descuentos",ham
+g28,"Haz clic para ver fotos de personas desnudas",smishing
+g29,"Necesitamos actualizar tu informacion personal",smishing
+g30,"Compra medicamentos sin receta medica",smishing
+g31,"Hola soy tu amigo de la infancia",ham
+g32,"Gana una gift card de 100 dolares",smishing
+g33,"Este producto te hara sentir mas joven",smishing
+g34,"Por favor dona a esta causa importante",ham
+g35,"Has ganado un viaje todo incluido",smishing
+g36,"Descarga este tono de llamada gratis",smishing
+g37,"Haz clic para ver el video mas divertido",smishing
+g38,"Necesitas este seguro de vida ahora mismo",smishing
+g39,"Por favor ayudame a encontrar a mi mascota perdida",ham
+g40,"Obten acceso a peliculas gratis en linea",smishing
+g41,"Haz esta prueba de coeficiente intelectual y sorprendete",smishing
+g42,"Gracias por tu interes en nuestros servicios",ham
+g43,"Multiplica tus ingresos con este programa de afiliacion",smishing
+g44,"Te extrano y quiero verte",ham
+g45,"Obten tu reporte de credito gratis",smishing
+g46,"Este producto milagroso te quitara las arrugas",smishing
+g47,"Por favor completa esta oferta para continuar",smishing
+g48,"Haz clic para descargar musica gratis",smishing
+g49,"Aprende a invertir en criptomonedas ahora",smishing
+g50,"Estoy en problemas por favor enviame dinero",ham
+g51,"Actualiza tu informacion de contacto",ham
+g52,"Gana dinero extra desde casa",smishing
+g53,"Tu cuenta ha sido bloqueada temporalmente",smishing
+g54,"Necesito tu ayuda urgentemente",ham
+g55,"Recibe un bono de bienvenida al registrarte",smishing
+g56,"Este es un recordatorio de tu cita medica",ham
+g57,"Pierde peso sin esfuerzo con este suplemento",smishing
+g58,"Haz clic para reclamar tu premio",smishing
+g59,"Gracias por ser un cliente valioso",ham
+g60,"Invierte en bitcoin y hazte millonario",smishing
+g61,"Tu pedido ha sido enviado",ham
+g62,"Obten un prestamo en linea instantaneamente",smishing
+g63,"Hola soy un principe nigeriano y necesito tu ayuda",smishing
+g64,"Felicidades has sido seleccionado para una encuesta remunerada",smishing
+g65,"Lamento informarte que tu solicitud ha sido rechazada",ham
+g66,"Aumenta tu energia y libido con estas pastillas naturales",smishing
+g67,"Tu suscripcion expirara pronto",ham
+g68,"Gana un iPhone gratis participando en este sorteo",smishing
+g69,"Necesitamos verificar tu informacion de pago",smishing
+g70,"Gracias por ponerte en contacto con nuestro equipo de soporte",ham
+g71,"Haz clic para ver las fotos privadas de esta persona",smishing
+g72,"Tu cuenta tiene un saldo pendiente",smishing
+g73,"Este es un aviso importante de tu proveedor de servicios",ham
+g74,"Obten acceso ilimitado a contenido exclusivo",smishing
+g75,"Te esperamos en nuestra proxima reunion",ham
+g76,"Haz una fortuna con este metodo secreto",smishing
+g77,"Has ganado una gift card de Amazon",smishing
+g78,"Confirma tu asistencia al evento",ham
+g79,"Descubre los secretos para un cabello hermoso y brillante",smishing
+g80,"Necesitamos que verifiques tu identidad",smishing
+g81,"Recomienda nuestro producto y gana comisiones",smishing
+g82,"Este es un mensaje de tu banco",ham
+g83,"Obten descuentos exclusivos en nuestro sitio web",smishing
+g84,"Ha habido un intento de inicio de sesion sospechoso en tu cuenta",smishing
+g85,"Te invitamos a participar en nuestra encuesta de satisfaccion",ham
+g86,"Este producto revolucionario te quitara las manchas de la piel",smishing
+g87,"Haz clic aqui para descargar el archivo adjunto",smishing
+g88,"Feliz cumpleaños de parte de todo nuestro equipo",ham
+g89,"Unete a nuestro programa de afiliados y gana dinero extra",smishing
+g90,"Este es un recordatorio de tu pago pendiente",ham
+g91,"Descubre como conquistar a la persona de tus sueños",smishing
+g92,"Hola quiero presentarte una increible oportunidad de negocio",smishing
+g93,"Gracias por tu donacion a nuestra causa",ham
+g94,"Obten acceso anticipado a nuestras rebajas",smishing
+g95,"Tu reserva ha sido confirmada",ham
+g96,"Gana musculos rapidamente con este suplemento",smishing
+g97,"Por favor actualiza tus preferencias de comunicacion",ham
+g98,"Aprovecha esta oferta por tiempo limitado",smishing
+g99,"Este es un mensaje automatico de nuestro sistema",ham
+g100,"Has ganado un vale de compra en nuestra tienda",smishing
+g101,"Tu cita ha sido reprogramada",ham
+g102,"Haz clic aqui para recibir tu recompensa",smishing
+g103,"Este es un aviso de tu factura vencida",smishing
+g104,"Necesito que me hagas un favor",ham
+g105,"Participa en nuestro concurso y gana premios increibles",smishing
+g106,"Tu pedido ha sido cancelado",ham
+g107,"Obten un seguro de vida a un precio inigualable",smishing
+g108,"Hola soy un viejo amigo y quiero reconnectar contigo",smishing
+g109,"Gracias por tu paciencia mientras resolvemos tu problema",ham
+g110,"Invierte en esta criptomoneda emergente y multiplica tu dinero",smishing
+g111,"Tu cuenta ha sido actualizada exitosamente",ham
+g112,"Obten una muestra gratis de nuestro producto",smishing
+g113,"Este software optimizara el rendimiento de tu ordenador",smishing
+g114,"Felicidades has calificado para recibir un descuento especial",smishing
+g115,"Lamentamos informarte que el producto esta agotado",ham
+g116,"Aumenta tu busto naturalmente con esta crema",smishing
+g117,"Tu membresia expirara en unos dias",ham
+g118,"Gana un viaje todo pagado participando en nuestro sorteo",smishing
+g119,"Necesitamos que confirmes tu direccion de envio",smishing
+g120,"Gracias por escribirnos te responderemos a la brevedad",ham
+g121,"Haz clic para ver este increible video",smishing
+g122,"Tu cuenta tiene un cargo no reconocido",smishing
+g123,"Este es un recordatorio de tu proxima cita",ham
+g124,"Obten acceso a contenido exclusivo suscribiendote ahora",smishing
+g125,"Te esperamos en la reunion de manana",ham
+g126,"Haz dinero facil desde la comodidad de tu hogar",smishing
+g127,"Has ganado una tableta nueva",smishing
+g128,"Confirma tu asistencia a la boda",ham
+g129,"Descubre el secreto para unas pestanas largas y gruesas",smishing
+g130,"Necesitamos que verifiques tu cuenta",smishing
+g131,"Unete a nuestro programa de referidos y gana comisiones",smishing
+g132,"Este es un aviso de tu banco",ham
+g133,"Obten envio gratis en tu primera compra",smishing
+g134,"Hemos detectado actividad sospechosa en tu cuenta",smishing
+g135,"Te invitamos a probar nuestro nuevo producto",ham
+g136,"Este suplemento te hara perder peso mientras duermes",smishing
+g137,"Haz clic aqui para descargar tu factura",smishing
+g138,"Feliz aniversario que tengas un dia maravilloso",ham
+g139,"Conviertete en un afiliado y gana dinero promocionando nuestros productos",smishing
+g140,"Este es un recordatorio de tu cita de manana",ham
+g141,"Descubre como seducir a cualquier persona",smishing
+g142,"Hola tengo una propuesta de negocio que podria interesarte",smishing
+g143,"Gracias por tu apoyo a nuestra organizacion",ham
+g144,"Obten acceso temprano a nuestras ofertas especiales",smishing
+g145,"Tu reservacion ha sido exitosa",ham
+g146,"Desarrolla el cuerpo de tus suenos con este entrenamiento",smishing
+g147,"Por favor completa tu perfil para una mejor experiencia",ham
+g148,"Ultimo dia para aprovechar este descuento",smishing
+g149,"Este mensaje es para informarte sobre cambios en nuestras politicas",ham
+g150,"Has sido seleccionado para recibir un obsequio especial",smishing
+g151,"Tus resultados medicos estan listos",ham
+g152,"Haz clic para descargar este increible juego",smishing
+g153,"Tu orden ha sido procesada exitosamente",ham
+g154,"Obten un descuento especial en tu proximo corte de cabello",smishing
+g155,"Te recordamos que tienes un pago pendiente",smishing
+g156,"Hola me gustaria invitarte a salir",ham
+g157,"Participa en nuestra rifa y gana fabulosos premios",smishing
+g158,"Tu paquete esta en camino",ham
+g159,"Pierde peso rapido con esta dieta milagrosa",smishing
+g160,"Estamos trabajando para resolver la incidencia lo antes posible",ham
+g161,"Haz clic aqui para ver increibles fotos de gatitos",smishing
+g162,"Gracias por registrarte en nuestro sitio web",ham
+g163,"Obten tu reporte de credito gratis ahora",smishing
+g164,"Necesito tu colaboracion en un proyecto importante",ham
+g165,"Gana dinero viendo anuncios en tu telefono",smishing
+g166,"Hemos recibido tu solicitud y la estamos procesando",ham
+g167,"Mejora tu vida sexual con este suplemento natural",smishing
+g168,"Hola solo queria saber como has estado",ham
+g169,"Invierte en bienes raices y asegura tu futuro financiero",smishing
+g170,"Confirma tu suscripcion haciendo clic aqui",smishing
+g171,"Gracias por contactar a nuestro servicio al cliente",ham
+g172,"Unete a nuestro club de lectores y recibe libros gratis",smishing
+g173,"Tu factura esta lista para ser descargada",ham
+g174,"Obten los mejores consejos para una piel radiante",smishing
+g175,"Necesitamos verificar tu informacion fiscal",smishing
+g176,"Gana comisiones promocionando nuestros servicios",smishing
+g177,"Hola soy Maria tu nueva vecina",ham
+g178,"Aprovecha nuestras ofertas de fin de temporada",smishing
+g179,"Este es un recordatorio de tu reserva",ham
+g180,"Elimina las arrugas con este tratamiento revolucionario",smishing
+g181,"Realiza tu pago antes de la fecha limite",ham
+g182,"Haz clic para descargar este fondo de pantalla gratis",smishing
+g183,"Felicidades por tu logro te lo mereces",ham
+g184,"Conviertete en un experto en redes sociales con nuestro curso",smishing
+g185,"Lamentamos el inconveniente causado por el retraso en tu vuelo",ham
+g186,"Baja de peso sin hacer dieta ni ejercicio",smishing
+g187,"Hola quiero compartir contigo esta oportunidad unica",smishing
+g188,"Gracias por tu fidelidad aqui tienes un cupon de descuento",ham
+g189,"Accede a contenido premium suscribiendote a nuestro newsletter",smishing
+g190,"Tu cita de manana ha sido confirmada",ham
+g191,"Desarrolla habilidades de liderazgo con este seminario",smishing
+g192,"Por favor responde esta breve encuesta sobre tu experiencia",ham
+g193,"Esta es tu ultima oportunidad para adquirir este producto",smishing
+g194,"Hemos actualizado nuestros terminos y condiciones",ham
+g195,"Has sido preseleccionado para recibir un premio en efectivo",smishing
+g196,"Recuerda que tienes una tarea pendiente",ham
+g197,"Haz clic aqui para conocer personas interesantes cerca de ti",smishing
+g198,"Gracias por preferirnos tu opinion es muy importante para nosotros",ham
+g199,"No pierdas esta increible oferta suscribete ahora",smishing
+g200,"Esperamos que disfrutes de tu estancia en nuestro hotel",ham
+g201,"Tu pedido ha sido entregado exitosamente",ham
+g202,"Gana dinero extra trabajando desde casa",smishing
+g203,"Este es un recordatorio de tu próxima cita médica",ham
+g204,"Descubre el secreto para un abdomen plano",smishing
+g205,"Gracias por tu pago tu cuenta está al día",ham
+g206,"Haz clic aquí para reclamar tu cupón de descuento",smishing
+g207,"Necesito que me envíes la información solicitada",ham
+g208,"Obtén acceso exclusivo a nuestras rebajas privadas",smishing
+g209,"Tu reserva de vuelo ha sido confirmada",ham
+g210,"Aumenta tu energía con este suplemento natural",smishing
+g211,"Hemos recibido tu consulta y te responderemos a la brevedad",ham
+g212,"Invierte en acciones y multiplica tu capital",smishing
+g213,"Hola ¿te gustaría tomar un café conmigo?",ham
+g214,"Aprovecha nuestro financiamiento sin intereses",smishing
+g215,"Por favor confirma tu asistencia al seminario",ham
+g216,"Haz clic para ver increíbles trucos de maquillaje",smishing
+g217,"Tu suscripción ha sido renovada automáticamente",ham
+g218,"Gana un carro nuevo participando en nuestro concurso",smishing
+g219,"Necesitamos verificar tus datos de contacto",smishing
+g220,"Gracias por tu interés un asesor se comunicará contigo pronto",ham
+g221,"Descarga esta aplicación y obtén un descuento",smishing
+g222,"Tu estado de cuenta está listo para ser revisado",ham
+g223,"Mejora tu rendimiento deportivo con nuestro programa de entrenamiento",smishing
+g224,"Por favor actualiza tus preferencias de notificaciones",ham
+g225,"Haz una donación y ayuda a cambiar vidas",ham
+g226,"Haz clic para ver las fotos de la fiesta",smishing
+g227,"Felicitaciones por tu aniversario laboral",ham
+g228,"Obtén tu seguro de gastos médicos hoy mismo",smishing
+g229,"Hola soy tu asesor financiero personal",smishing
+g230,"Gracias por registrarte disfruta de todos nuestros beneficios",ham
+g231,"No te pierdas nuestras ofertas de último minuto",smishing
+g232,"Tu paquete está listo para ser recogido",ham
+g233,"Descubre cómo aprender un idioma en tiempo récord",smishing
+g234,"Por favor completa la encuesta de satisfacción",ham
+g235,"Haz clic para descargar este ebook gratis",smishing
+g236,"Lamentamos informarte que tu crédito no ha sido aprobado",ham
+g237,"Gana dinero compartiendo tus opiniones",smishing
+g238,"Hola estoy interesado en tus servicios",ham
+g239,"Obtén un seguro de vida sin exámenes médicos",smishing
+g240,"Confirma tu suscripción a nuestra lista de correos",smishing
+g241,"Gracias por tu visita esperamos verte pronto",ham
+g242,"Haz clic para ver este increíble video de comedia",smishing
+g243,"Tu recibo de pago está disponible para descargar",ham
+g244,"Desarrolla una memoria extraordinaria con este curso",smishing
+g245,"Por favor verifica tu dirección de envío",ham
+g246,"Última chance para comprar con descuento",smishing
+g247,"Este mensaje es para informarte sobre nuestra nueva política",ham
+g248,"Has ganado una gift card para tu tienda favorita",smishing
+g249,"Recuerda que tienes un evento importante mañana",ham
+g250,"Conoce solteros y solteras en tu ciudad",smishing
+g251,"Agradecemos tu preferencia sigue disfrutando de nuestros productos",ham
+g252,"Suscríbete a nuestro canal y no te pierdas ningún video",smishing
+g253,"Tu orden ha sido actualizada",ham
+g254,"Gana dinero extra con este trabajo de medio tiempo",smishing
+g255,"Este es un recordatorio amistoso de tu cita dental",ham
+g256,"Pierde peso durmiendo con esta pastilla milagrosa",smishing
+g257,"Gracias por tu compra tu pedido está siendo procesado",ham
+g258,"Haz clic para obtener tu reporte crediticio gratis",smishing
+g259,"Necesito que revises y firmes el contrato adjunto",ham
+g260,"Accede a descuentos exclusivos en nuestro sitio web",smishing
+g261,"Tu paquete está en camino y llegará pronto",ham
+g262,"Mejora tu rendimiento sexual con este producto natural",smishing
+g263,"Hemos recibido tu reclamo y estamos trabajando en ello",ham
+g264,"Invierte en oro y protege tu patrimonio",smishing
+g265,"Hola ¿te gustaría cenar conmigo este fin de semana?",ham
+g266,"Aprovecha nuestras tasas de interés preferenciales",smishing
+g267,"Por favor confirma tu asistencia a la reunión de mañana",ham
+g268,"Descubre los secretos para un cabello hermoso",smishing
+g269,"Tu membresía ha sido activada exitosamente",ham
+g270,"Gana un viaje todo incluido participando en nuestro sorteo",smishing
+g271,"Necesitamos verificar tu identidad para procesar tu solicitud",smishing
+g272,"Gracias por contactarnos valoramos tus comentarios",ham
+g273,"Instala esta aplicación y obtén recompensas",smishing
+g274,"Tu factura del mes está lista para ser pagada",ham
+g275,"Transforma tu cuerpo con nuestro programa de 90 días",smishing
+g276,"Por favor actualiza tu información de pago",ham
+g277,"Ayúdanos a construir un mundo mejor con tu aporte",ham
+g278,"Mira estas divertidas fotos de animales",smishing
+g279,"Feliz cumpleaños que todos tus deseos se hagan realidad",ham
+g280,"Adquiere tu seguro de hogar con nosotros",smishing
+g281,"Hola soy tu nuevo entrenador personal",smishing
+g282,"Bienvenido a bordo estamos encantados de tenerte con nosotros",ham
+g283,"Últimas horas para aprovechar nuestras promociones",smishing
+g284,"Tu reserva ha sido procesada exitosamente",ham
+g285,"Aprende a tocar guitarra en solo 4 semanas",smishing
+g286,"Por favor ayúdanos a mejorar contestando esta breve encuesta",ham
+g287,"Haz clic para descargar este increíble fondo de pantalla",smishing
+g288,"Lamentamos informarte que tu postulación no ha sido seleccionada",ham
+g289,"Gana recompensas por tus compras diarias",smishing
+g290,"Hola me gustaría cotizar tus servicios",ham
+g291,"Obtén la cobertura médica que necesitas",smishing
+g292,"Confirma tu dirección de correo para recibir novedades",smishing
+g293,"Gracias por elegirnos estamos para servirte",ham
+g294,"No te pierdas este gracioso video de gatos",smishing
+g295,"Tu comprobante de pago está adjunto a este mensaje",ham
+g296,"Potencia tu cerebro con nuestro entrenamiento cognitivo",smishing
+g297,"Por favor revisa y actualiza tus datos personales",ham
+g298,"Esta es tu última oportunidad para ahorrar",smishing
+g299,"Importante: cambios en nuestros términos y condiciones",ham
+g300,"Felicitaciones has sido seleccionado para una beca",smishing
+g301,"Recuerda que tienes una reunión importante el lunes",ham
+g302,"Encuentra tu pareja ideal con nuestra app",smishing
+g303,"Valoramos tu lealtad aquí tienes un regalo especial",ham
+g304,"Suscríbete a nuestro boletín informativo semanal",smishing
+g305,"Tu reclamo ha sido resuelto favorablemente",ham
+g306,"Gana músculo rápidamente con este suplemento",smishing
+g307,"Este es un recordatorio de tu cita de peluquería",ham
+g308,"Descubre cómo ganar dinero desde tu casa",smishing
+g309,"Gracias por tu pago tu suscripción ha sido renovada",ham
+g310,"Haz clic para obtener tu código de descuento",smishing
+g311,"Necesito que me envíes el reporte lo antes posible",ham
+g312,"Disfruta de envío gratis en tu próxima compra",smishing
+g313,"Tu paquete ha sido entregado exitosamente",ham
+g314,"Aumenta tu libido con este revolucionario producto",smishing
+g315,"Hemos recibido tu solicitud y la estamos revisando",ham
+g316,"Invierte en bienes raíces y genera rentas pasivas",smishing
+g317,"Hola ¿te gustaría unirte a nuestro club de lectura?",ham
+g318,"Aprovecha nuestra tasa de cambio preferencial",smishing
+g319,"Por favor confirma tu asistencia al webinar de mañana",ham
+g320,"Luce una piel radiante con nuestros consejos",smishing
+g321,"Tu cuenta ha sido verificada exitosamente",ham
+g322,"Gana una consola de videojuegos en nuestro concurso",smishing
+g323,"Necesitamos verificar tu dirección para enviar tu pedido",smishing
+g324,"Gracias por tus comentarios siempre buscamos mejorar",ham
+g325,"Prueba este increíble juego para móviles",smishing
+g326,"Tu estado de cuenta está disponible en línea",ham
+g327,"Pierde peso saludablemente con nuestra asesoría nutricional",smishing
+g328,"Por favor actualiza tus preferencias de comunicación",ham
+g329,"Juntos podemos lograr un cambio positivo",ham
+g330,"Mira estas adorables fotos de cachorros",smishing
+g331,"Feliz aniversario de bodas que sigan cumpliendo muchos más",ham
+g332,"Protege a tu familia con nuestro seguro de vida",smishing
+g333,"Hola soy tu asesor de imagen personal",smishing
+g334,"Bienvenido a nuestro programa de recompensas",ham
+g335,"Últimos días de rebajas ¡no te los pierdas!",smishing
+g336,"Tu pedido está siendo preparado para envío",ham
+g337,"Aprende un nuevo idioma de forma divertida",smishing
+g338,"Por favor cuéntanos sobre tu experiencia con nuestro servicio",ham
+g339,"Descarga nuestra aplicación y obtén un descuento especial",smishing
+g340,"Lamentamos los inconvenientes causados por el retraso",ham
+g341,"Gana premios por tus compras frecuentes",smishing
+g342,"Hola ¿podríamos agendar una llamada?",ham
+g343,"Asegura tu auto con la mejor cobertura del mercado",smishing
+g344,"Verifica tu suscripción haciendo clic en el enlace",smishing
+g345,"Mil gracias por preferirnos estamos comprometidos con tu satisfacción",ham
+g346,"No te pierdas estos divertidos memes",smishing
+g347,"Tu comprobante fiscal está listo para ser descargado",ham
+g348,"Entrena tu mente con nuestros juegos de ingenio",smishing
+g349,"Por favor confirma tu número de teléfono",ham
+g350,"Esta oferta expira a la medianoche ¡aprovéchala ya!",smishing
+g351,"Actualización importante de nuestras políticas de privacidad",ham
+g352,"Felicitaciones fuiste seleccionado para una entrevista",ham
+g353,"Recuerda que tienes una cita médica este jueves",ham
+g354,"Encuentra el amor de tu vida con nuestra aplicación",smishing
+g355,"Apreciamos tu fidelidad disfruta de este obsequio",ham
+g356,"Mantente informado con nuestras noticias diarias",smishing
+g357,"Tu solicitud ha sido aprobada satisfactoriamente",ham
+g358,"Desarrolla un cuerpo escultural con nuestras rutinas",smishing
+g359,"Este es un recordatorio de tu reserva en nuestro restaurante",ham
+g360,"Trabaja desde casa y genera ingresos extra",smishing
+g361,"Gracias por tu compra esperamos que disfrutes tu producto",ham
+g362,"Usa este código promocional en tu próxima visita",smishing
+g363,"Necesito que revises el documento adjunto y me des tus comentarios",ham
+g364,"Obtén envío express gratis en compras mayores a $100",smishing
+g365,"Tu equipaje está en camino a tu domicilio",ham
+g366,"Incrementa tu resistencia con nuestro suplemento deportivo",smishing
+g367,"Hemos recibido tu curriculum y te contactaremos si hay una vacante",ham
+g368,"Invierte en criptomonedas y multiplica tus ganancias",smishing
+g369,"Hola ¿te gustaría ser parte de nuestro equipo?",ham
+g370,"Aprovecha nuestro crédito con meses sin intereses",smishing
+g371,"Por favor confirma tu asistencia a la capacitación de seguridad",ham
+g372,"Luce unas pestañas impresionantes con nuestro rímel",smishing
+g373,"Tu cuenta ha sido desbloqueada con éxito",ham
+g374,"Gana un fin de semana en la playa en nuestro sorteo",smishing
+g375,"Necesitamos verificar tu edad para procesar tu pedido",smishing
+g376,"Agradecemos tus sugerencias siempre son bienvenidas",ham
+g377,"Descarga este wallpaper inspiracional gratis",smishing
+g378,"Tu saldo actual y movimientos están en este enlace",ham
+g379,"Baja de peso con nuestras deliciosas recetas saludables",smishing
+g380,"Por favor elige tu medio de pago preferido",ham
+g381,"Tu donación puede marcar la diferencia en muchas vidas",ham
+g382,"No te pierdas estos videos de gatitos juguetones",smishing
+g383,"Feliz cumpleaños que este año esté lleno de bendiciones",ham
+g384,"Protege tu negocio con nuestro seguro para PyMEs",smishing
+g385,"Hola soy tu coach de vida personal",smishing
+g386,"Gracias por unirte a nuestra comunidad online",ham
+g387,"Ultimas unidades disponibles ¡corre que se acaban!",smishing
+g388,"Tu pedido ha sido enviado recibirás una confirmación por correo",ham
+g389,"Aprende las técnicas de los grandes líderes empresariales",smishing
+g390,"Por favor comparte tu opinión sobre nuestro nuevo producto",ham
+g391,"Obtén un descuento usando este código QR",smishing
+g392,"Lamentamos el cierre temporal de nuestras oficinas",ham
+g393,"Acumula puntos y canjéalos por increíbles recompensas",smishing
+g394,"Hola me gustaría más información sobre tus servicios",ham
+g395,"Asegura tu futuro con nuestro plan de jubilación",smishing
+g396,"Reconfirma tu correo haciendo clic abajo",smishing
+g397,"Un millón de gracias por tu confianza sigamos creciendo juntos",ham
+g398,"Te compartimos este divertido reto viral",smishing
+g399,"Tu factura electrónica está lista descárgala aquí",ham
+g400,"Estimula tu creatividad con nuestro taller de arte",smishing
+g401,"Por favor verifica tu información de contacto",ham
+g402,"Solo por 24 horas todo a mitad de precio",smishing
+g403,"Cambios importantes en nuestros servicios",ham
+g404,"Felicidades has sido promovido a un nuevo cargo",ham
+g405,"Te recordamos que tienes un pago pendiente",ham
+g406,"Conoce gente interesante cerca de ti",smishing
+g407,"Te regalamos un cupón por tu cumpleaños",ham
+g408,"Entérate de las últimas noticias de la industria",smishing
+g409,"Tu garantía ha sido extendida sin costo adicional",ham
+g410,"Tonifica tu cuerpo con solo 20 minutos diarios",smishing
+g411,"Este es un recordatorio de tu vuelo de mañana",ham
+g412,"Genera ingresos compartiendo tus conocimientos",smishing
+g413,"Gracias por tu visita aquí tienes un regalo de despedida",ham
+g414,"Usa este código de descuento antes que expire",smishing
+g415,"Necesito tu aprobación para proceder con el plan",ham
+g416,"Disfruta de nuestro servicio premium por 30 días gratis",smishing
+g417,"Tu orden de compra ha sido procesada exitosamente",ham
+g418,"Desbloquea tu potencial con nuestro seminario motivacional",smishing
+g419,"Hemos recibido tu postulación gracias por tu interés",ham
+g420,"Obtén ganancias constantes con nuestro sistema",smishing
+g421,"Hola ¿te gustaría colaborar en nuestro proyecto?",ham
+g422,"Aprovecha nuestros planes de financiamiento",smishing
+g423,"Por favor responde esta encuesta de satisfacción laboral",ham
+g424,"Rejuvenece tu piel con nuestro tratamiento antiedad",smishing
+g425,"Tu cuenta ha sido actualizada con las nuevas funciones",ham
+g426,"Gana un día de spa en nuestro concurso de fin de mes",smishing
+g427,"Necesitamos verificar tu licencia de conducir para el alquiler",smishing
+g428,"Valoramos tu opinión cuéntanos cómo podemos servirte mejor",ham
+g429,"Sorprende a tu pareja con este regalo original",smishing
+g430,"Tu resumen de gastos mensual está disponible",ham
+g431,"Mantente en forma con nuestras clases online",smishing
+g432,"Por favor selecciona tu método de envío preferido",smishing
+g433,"Ayúdanos a plantar más árboles con tu aporte",ham
+g434,"Disfruta de horas de diversión con este juego adictivo",smishing
+g435,"Felices fiestas que tengas una feliz Navidad y próspero Año Nuevo",ham
+g436,"Estamos procesando tu reembolso",ham
+g437,"Gana dinero extra con nuestro programa de afiliados",smishing
+g438,"Recordatorio: tu cita con el dentista es mañana",ham
+g439,"Adelgaza sin esfuerzo con este nuevo producto",smishing
+g440,"Gracias por tu orden estamos preparando tu envío",ham
+g441,"Descarga tu informe de crédito gratis ahora",smishing
+g442,"Por favor revisa y firma el acuerdo de confidencialidad",ham
+g443,"Obtén descuentos exclusivos en nuestra tienda online",smishing
+g444,"Tu envío está en camino llegará pronto",ham
+g445,"Potencia tu vida sexual con nuestras pastillas",smishing
+g446,"Estamos atendiendo tu reclamo te responderemos a la brevedad",ham
+g447,"Invierte en acciones de alto rendimiento hoy",smishing
+g448,"Hola ¿te gustaría salir a tomar un café?",ham
+g449,"Aprovecha nuestros préstamos con bajo interés",smishing
+g450,"Confirma tu presencia en el seminario de mañana",smishing
+g451,"Consigue el cabello de tus sueños con nuestro tratamiento",smishing
+g452,"Tu suscripción ha sido activada bienvenido",ham
+g453,"Participa en nuestro sorteo y gana increíbles premios",smishing
+g454,"Necesitamos verificar tu identidad por favor contáctanos",smishing
+g455,"Gracias por tus comentarios son muy valiosos para nosotros",ham
+g456,"Prueba nuestra nueva app y obtén recompensas",smishing
+g457,"Tu estado de cuenta ya está disponible revísalo aquí",ham
+g458,"Transforma tu físico con nuestro reto de 30 días",smishing
+g459,"Por favor actualiza tus datos de facturación",ham
+g460,"Únete a nuestra causa y hagamos del mundo un lugar mejor",ham
+g461,"No te pierdas estos divertidos videos de animales",smishing
+g462,"Feliz cumpleaños que todos tus sueños se hagan realidad",ham
+g463,"Protege tu hogar con nuestro seguro contra desastres",smishing
+g464,"Hola soy tu entrenador personal virtual",smishing
+g465,"Gracias por unirte a nuestro equipo bienvenido a bordo",ham
+g466,"Últimas horas de nuestra mega liquidación ¡aprovecha!",smishing
+g467,"Tu reservación ha sido confirmada gracias por elegirnos",ham
+g468,"Aprende a meditar y reduce tu estrés",ham
+g469,"Por favor comparte tu experiencia con nuestro producto",smishing
+g470,"Descarga este asombroso fondo de pantalla gratis",smishing
+g471,"Lamentamos informar que tu crédito no ha sido aprobado",ham
+g472,"Gana puntos por cada compra y canjéalos por premios",smishing
+g473,"Hola me interesa contratar tus servicios",ham
+g474,"Obtén la mejor cobertura médica para ti y tu familia",smishing
+g475,"Confirma tu suscripción a nuestra lista de correos",smishing
+g476,"Gracias por ser nuestro cliente valoramos tu preferencia",ham
+g477,"Mira este gracioso video de fails",smishing
+g478,"Tu factura ya está lista descárgala aquí",ham
+g479,"Mejora tu agilidad mental con nuestros juegos",smishing
+g480,"Por favor verifica y actualiza tu perfil",ham
+g481,"Esta increíble oferta termina hoy ¡no te la pierdas!",smishing
+g482,"Importantes cambios en nuestras políticas de servicio",ham
+g483,"Felicidades has sido seleccionado para una beca",ham
+g484,"Recuerda tu cita para tu chequeo anual",ham
+g485,"Encuentra a tu media naranja con nuestra app de citas",smishing
+g486,"Gracias por tu lealtad aquí tienes un código de descuento",ham
+g487,"Mantente al día con nuestro resumen de noticias diario",smishing
+g488,"Tu solicitud ha sido aceptada felicitaciones",ham
+g489,"Desarrolla músculos en poco tiempo con nuestro producto",smishing
+g490,"Recordatorio: tu reserva en el restaurante es esta noche",ham
+g491,"Gana dinero desde casa con este sencillo método",smishing
+g492,"Gracias por tu compra tu satisfacción es nuestra prioridad",ham
+g493,"Usa este cupón en tu próxima visita a nuestra tienda",smishing
+g494,"Por favor revisa el archivo adjunto y envíame tus comentarios",ham
+g495,"Disfruta de envío gratis en pedidos mayores a $500",smishing
+g496,"Tu equipaje ha sido enviado pronto estará contigo",ham
+g497,"Aumenta tu energía con nuestras barras energéticas",smishing
+g498,"Hemos recibido tu aplicación te contactaremos pronto",ham
+g499,"Invierte en la criptomoneda del momento",smishing
+g500,"Hola nos encantaría que formaras parte de nuestro equipo",ham
+g501,"Aprovecha nuestros planes de pago sin intereses",smishing
+g502,"Por favor asiste a la capacitación obligatoria de mañana",ham
+g503,"Luce una mirada impactante con nuestro delineador",smishing
+g504,"Tu cuenta ya está activa empieza a disfrutar de los beneficios",ham
+g505,"Participa en nuestro concurso y gana un viaje",smishing
+g506,"Necesitamos verificar tu mayoría de edad para proceder",smishing
+g507,"Agradecemos tus ideas nos ayudan a mejorar",ham
+g508,"Descarga este ebook lleno de consejos útiles",smishing
+g509,"Aquí está tu estado de cuenta mensual",ham
+g510,"Baja de peso comiendo deliciosos platillos",smishing
+g511,"Por favor selecciona tu forma de pago",ham
+g512,"Ayúdanos a construir más escuelas con tu donativo",ham
+g513,"No te pierdas estos adorables videos de perritos",smishing
+g514,"Feliz aniversario que sigan cumpliendo muchos más juntos",ham
+g515,"Asegura tu auto con nosotros y obtén grandes beneficios",smishing
+g516,"Hola soy tu asesor financiero personal",smishing
+g517,"Gracias por ser parte de nuestra comunidad",ham
+g518,"Últimos artículos en oferta ¡agrégalos a tu carrito!",smishing
+g519,"Tu orden ha sido enviada te mantendremos informado",ham
+g520,"Domina el arte de hablar en público con nuestro curso",smishing
+g521,"Ayúdanos a mejorar con tu opinión sincera",ham
+g522,"Obtén un regalo especial con este código QR",smishing
+g523,"Informamos que nuestras tiendas permanecerán cerradas hoy",ham
+g524,"Gana recompensas por tus compras regulares",smishing
+g525,"Hola cuéntame más sobre el proyecto que mencionaste",ham
+g526,"Protege a tus seres queridos con un seguro de gastos funerarios",smishing
+g527,"Confirma tu email haciendo clic en el enlace",smishing
+g528,"Gracias por confiar en nosotros estamos para servirte",ham
+g529,"Prueba este reto viral y comparte tus resultados",smishing
+g530,"Tu recibo fiscal ya está disponible descárgalo aquí",ham
+g531,"Despierta tu creatividad con nuestro curso de pintura",smishing
+g532,"Por favor verifica tus datos de contacto",ham
+g533,"Rebajas nocturnas solo por unas horas",smishing
+g534,"Nuevas actualizaciones en nuestros términos y condiciones",ham
+g535,"Felicidades por tu ascenso te lo mereces",ham
+g536,"Recuerda que tu pago vence la próxima semana",ham
+g537,"Amplía tu círculo social con nuestra app",smishing
+g538,"Feliz cumpleaños te enviamos un obsequio virtual",ham
+g539,"Mantente informado con nuestro boletín semanal",smishing
+g540,"Hemos extendido tu garantía sin costo adicional",ham
+g541,"Tonifica tu cuerpo con nuestro programa de ejercicios",smishing
+g542,"Confirmación de tu vuelo para mañana",ham
+g543,"Monetiza tus habilidades con nuestro sistema",smishing
+g544,"Gracias por visitarnos vuelve pronto",ham
+g545,"Usa este cupón antes de que caduque",smishing
+g546,"Necesito tu autorización para el siguiente paso",ham
+g547,"Prueba nuestro servicio premium gratis por un mes",smishing
+g548,"Tu pago ha sido procesado con éxito",ham
+g549,"Transforma tu mente con nuestro retiro espiritual",smishing
+g550,"Gracias por postular consideraremos tu perfil",ham
+g551,"Obtén ingresos pasivos con nuestro programa",smishing
+g552,"Hola ¿te interesa formar parte de nuestro equipo?",ham
+g553,"Aprovecha nuestros créditos especiales para PyMEs",smishing
+g554,"Por favor completa la encuesta del clima laboral",ham
+g555,"Rejuvenece tu rostro con nuestro suero anti-edad",smishing
+g556,"Tu cuenta ha sido mejorada con nuevas características",ham
+g557,"Gana una cena romántica en nuestro sorteo",smishing
+g558,"Necesitamos una copia de tu identificación para el registro",smishing
+g559,"Tu opinión nos importa cuéntanos cómo te fue",ham
+g560,"Sorprende a tu mejor amigo con este detalle",smishing
+g561,"Tu balance y movimientos del mes están listos",ham
+g562,"Mantén tu rutina fitness con nuestros videos",smishing
+g563,"Por favor elige el color y talla de tu preferencia",smishing
+g564,"Apoya a nuestra fundación con tu aporte voluntario",ham
+g565,"Pasa horas de entretenimiento con este juego",smishing
+g566,"Felices fiestas te deseamos paz y prosperidad",ham
+g567,"Reserva tu cita online y evita filas",ham
+g568,"Genera ingresos recomendando nuestros cursos",smishing
+g569,"Recordatorio amistoso: tu factura está por vencer",ham
+g570,"Prueba suerte en la lotería con este número",smishing
+g571,"Gracias por tu pago tu servicio está activo",ham
+g572,"Descubre la fórmula del éxito en nuestro webinar",smishing
+g573,"Revisa el documento adjunto y fírmalo digitalmente",ham
+g574,"Obtén muestras gratis de nuestros productos",smishing
+g575,"Tu paquete llegará en las próximas 48 horas",ham
+g576,"Despierta tu sensualidad con nuestras fragancias",smishing
+g577,"Atenderemos tu caso prioritariamente",ham
+g578,"Invierte a largo plazo con nuestros fondos",smishing
+g579,"Hola tengamos una charla sobre tu futuro",ham
+g580,"Aprovecha nuestra tasa preferencial para ahorros",smishing
+g581,"Confirma tu asistencia a la junta directiva",ham
+g582,"Soluciona tus problemas de acné con nuestro gel",smishing
+g583,"Tu nueva tarjeta de débito está en camino",ham
+g584,"Gana boletos para el concierto del año",smishing
+g585,"Necesitamos verificar la cuenta donde recibes tus pagos",smishing
+g586,"Agradecemos tus comentarios constructivos",ham
+g587,"Descarga nuestra guía de viaje gratis",smishing
+g588,"Tu saldo actual y próximos pagos",ham
+g589,"Baja de peso con nuestras opciones vegetarianas",smishing
+g590,"Por favor selecciona el punto de entrega",ham
+g591,"Únete a nuestros voluntarios y cambia vidas",ham
+g592,"No te pierdas estas imágenes inspiradoras",smishing
+g593,"Feliz Día de la Madre felicidades a tu mamá",ham
+g594,"Reclama tu seguro de desempleo aquí",ham
+g595,"Hola quiero ser tu gurú de estilo",smishing
+g596,"Bienvenido a nuestro selecto club",ham
+g597,"Últimas novedades agregadas explora nuestro catálogo",smishing
+g598,"Tu pedido está casi listo pasa a recogerlo",ham
+g599,"Aprende a diseñar como un profesional con nuestro tutorial",smishing
+g600,"Qué te pareció tu experiencia con nuestro equipo?",ham
+g601,"Obtén cash-back con este cupón",smishing
+g602,"Comunicado oficial: nuevos horarios de atención",ham
+g603,"Acumula millas en cada viaje que hagas con nosotros",smishing
+g604,"Sé que tienes dudas con gusto te las aclaro",ham
+g605,"Prepara el futuro de tus hijos con nuestro fondo universitario",smishing
+g606,"Reconfirma tu correo para evitar suspensiones",smishing
+g607,"Mil gracias por elegirnos haremos hasta lo imposible por satisfacerte",ham
+g608,"Ayúdanos a romper este récord Guinness",smishing
+g609,"Tu comprobante de retención está listo",ham
+g610,"Libera tu potencial artístico con nuestro set de pinturas",smishing
+g611,"Por favor verifica tu número celular",ham
+g612,"Hoy todo tiene 70% de descuento corre",smishing
+g613,"Presentamos nuestro nuevo aviso de privacidad",ham
+g614,"Felicidades has sido nominado a empleado del mes",ham
+g615,"Evita recargos pagando tu cuenta a tiempo",ham
+g616,"Postula a tu media naranja y gana una cita a ciegas",smishing
+g617,"Un regalo especial por ser nuestro cliente fiel",ham
+g618,"Lee nuestro análisis semanal del mercado",smishing
+g619,"Extendimos tu periodo de prueba gratis",ham
+g620,"Marca tus abdominales con nuestro quema grasa",smishing
+g621,"Recordatorio de tu cita médica de control",ham
+g622,"Gana dinero probando productos en casa",smishing
+g623,"Gracias por tu compra reclama tu regalo aquí",ham
+g624,"Canjea este cupón por un 2x1 en cenas",smishing
+g625,"Comparte conmigo tus comentarios del borrador",ham
+g626,"Recibe tus compras el mismo día con nuestro servicio exprés",smishing
+g627,"Tu viaje de negocios está todo reservado",ham
+g628,"Refuerza tu sistema inmunológico con nuestras vitaminas",smishing
+g629,"Gracias por aplicar te llamaremos si hay vacantes",ham
+g630,"Multiplica tus ganancias integrándote a nuestro equipo",smishing
+g631,"Hola me encantaría que nos reuniéramos",ham
+g632,"Aprovecha nuestra opción de refinanciamiento",smishing
+g633,"Confirma tu asistencia al taller de seguridad",ham
+g634,"Resalta tu mirada con nuestras sombras de ojos",smishing
+g635,"Tu nueva contraseña ya está activa",ham
+g636,"Gana una consola participando en nuestro torneo",smishing
+g637,"Necesitamos una foto de tu identificación",smishing
+g638,"Ayúdanos a servirte mejor con tus sugerencias",ham
+g639,"Descarga el manual de usuario aquí",smishing
+g640,"Tu recibo de nómina está disponible aquí",ham
+g641,"Baja de peso sin pasar hambre",smishing
+g642,"Por favor selecciona la sede de tu preferencia",ham
+g643,"Salvemos más vidas con tu donación",ham
+g644,"No te pierdas estos memes divertidísimos",smishing
+g645,"Tu reembolso está en proceso",ham
+g646,"Gana comisiones por referir amigos",smishing
+g647,"No olvides tu cita para la limpieza dental",ham
+g648,"Pierde peso mientras duermes con este té",smishing
+g649,"Gracias por comprar con nosotros",ham
+g650,"Revisa tu puntaje crediticio gratis",smishing
+g651,"Necesito que firmes el NDA adjunto",ham
+g652,"Accede a ofertas solo para miembros",smishing
+g653,"Tu pedido está en ruta de entrega",ham
+g654,"Aumenta tu resistencia con estas pastillas",smishing
+g655,"Estamos revisando tu queja",ham
+g656,"Invierte en bonos gubernamentales hoy",smishing
+g657,"Hola ¿quieres tener una cita conmigo?",ham
+g658,"Financia tu compra con nuestro crédito",smishing
+g659,"Confirma tu asistencia al workshop",ham
+g660,"Luce un cabello de comercial con nuestro shampoo",smishing
+g661,"Tu membresía ha sido aprobada",ham
+g662,"Gana una gift card en nuestra rifa",smishing
+g663,"Por tu seguridad verificaremos tu identidad",smishing
+g664,"Tu feedback es valioso para nosotros",ham
+g665,"Baja nuestra app y gana puntos",smishing
+g666,"Tu balance mensual ya fue generado",ham
+g667,"Reduce tallas con nuestro plan detox",smishing
+g668,"Actualiza tu método de pago",ham
+g669,"Apoya esta noble causa con tu aporte",ham
+g670,"Mira estos chistosos videos de gatos",smishing
+g671,"Feliz cumpleaños pásala increíble",ham
+g672,"Adquiere nuestro seguro contra robos",smishing
+g673,"Hola seré tu nutricionista online",smishing
+g674,"Bienvenido al equipo",ham
+g675,"Últimas horas de cyber monday",smishing
+g676,"Tu habitación de hotel está lista",ham
+g677,"Encuentra tu paz interior con yoga",ham
+g678,"Cuéntanos qué te pareció el producto",smishing
+g679,"Baja este increíble wallpaper HD",smishing
+g680,"Tu solicitud de crédito fue denegada",ham
+g681,"Acumula reward points en cada compra",smishing
+g682,"Hola cotiza nuestros servicios aquí",ham
+g683,"Protege a tu familia con un seguro de salud",smishing
+g684,"Activa las notificaciones de nuestro boletín",smishing
+g685,"Gracias por preferirnos siempre",ham
+g686,"No te pierdas estos bloopers divertidos",smishing
+g687,"Descarga tu estado de cuenta aquí",ham
+g688,"Pon a prueba tu intelecto con sudokus",smishing
+g689,"Verifica y completa tu información personal",ham
+g690,"Solo hoy 50% de descuento en todo",smishing
+g691,"Lee nuestros nuevos términos de servicio",ham
+g692,"Felicidades obtuviste la beca",ham
+g693,"Agenda tu cita para el chequeo anual",ham
+g694,"Conoce solteros compatibles contigo",smishing
+g695,"Gracias por tu fidelidad",ham
+g696,"Entérate de las noticias más relevantes",smishing
+g697,"Felicidades tu crédito fue pre-aprobado",ham
+g698,"Marca los músculos de tus sueños",smishing
+g699,"Reconfirma tu cita en el spa",ham
+g700,"Trabaja desde casa sin experiencia",smishing
+g701,"Tu compra está protegida",ham
+g702,"Trae este cupón para un obsequio especial",smishing
+g703,"Envíame tus observaciones del reporte",ham
+g704,"Recibe tus envíos gratis por un año",smishing
+g705,"Tu maleta llegará en el próximo vuelo",ham
+g706,"Ten energía todo el día con nuestras cápsulas",smishing
+g707,"Gracias por postular te tendremos en cuenta",ham
+g708,"Obtén Bitcoin gratis con este truco",smishing
+g709,"Hola únete a nuestro dream team",ham
+g710,"Fracciona tus compras hasta 12 meses",smishing
+g711,"Asiste a la charla motivacional",ham
+g712,"Resalta tu belleza con nuestro labial",smishing
+g713,"Empeza a disfrutar tu suscripción",ham
+g714,"Concursa por entradas VIP al estreno",smishing
+g715,"Comprueba que eres mayor de edad",smishing
+g716,"Tus comentarios nos hacen mejores",ham
+g717,"Baja nuestro recetario gratis",smishing
+g718,"Revisa tus transacciones recientes",ham
+g719,"Adelgaza comiendo estos snacks",smishing
+g720,"Elige tu método de envío favorito",ham
+g721,"Cambia una vida apadrinando un niño",ham
+g722,"Despierta tu niño interior con Lego",smishing
+g723,"Feliz aniversario de bodas",ham
+g724,"Protege tu auto con nuestro seguro",smishing
+g725,"Hola optimicemos juntos tus finanzas",ham
+g726,"Gracias por unirte a nuestra comunidad virtual",ham
+g727,"Visita nuestra nueva colección",smishing
+g728,"Confirmamos el despacho de tu orden",ham
+g729,"Domina la oratoria con este curso",smishing
+g730,"Tu opinión sincera nos importa",ham
+g731,"Gana regalos con este código QR",smishing
+g732,"Comunicado: cambio temporal de sede",ham
+g733,"Acumula millas viajando con nosotros",smishing
+g734,"Hola resolveré todas tus consultas",ham
+g735,"Invierte en el futuro de tu retiro",smishing
+g736,"Valida tu mail para continuar",ham
+g737,"Gracias por tu paciencia",ham
+g738,"Rompe este récord y gana fama",smishing
+g739,"Tu certificado tributario está listo",ham
+g740,"Dibuja como un experto con estos tips",smishing
+g741,"Verifica tu número de teléfono",ham
+g742,"Flash sale todo debe irse",smishing
+g743,"Conoce nuestro compromiso con tu privacidad",ham
+g744,"Felicidades por tu desempeño sobresaliente",ham
+g745,"Paga a tiempo y mantén tu récord crediticio",ham
+g746,"Postúlate a este reality show",smishing
+g747,"Reclama aquí tu gift card de cumpleaños",ham
+g748,"Lee los insights clave de la industria",smishing
+g749,"Disfruta 30 días más de cortesía",ham
+g750,"Marca tu six-pack con nuestro gel",smishing
+g751,"Revisa los resultados de tus exámenes médicos",ham
+g752,"Gana probando productos como mystery shopper",smishing
+g753,"Gracias por comprar reclama tu cashback",ham
+g754,"Canjea aquí tu cupón de descuento",smishing
+g755,"Agrégame tus comentarios en el documento",ham
+g756,"Recibe tu súper en la puerta de tu casa",smishing
+g757,"Tu vuelo está confirmado",ham
+g758,"Fortalece tus defensas con este suplemento",smishing
+g759,"Gracias por tu interés te contactaremos pronto",ham
+g760,"Genera ingreso extra como freelancer",smishing
+g761,"Hola ¿cuándo nos juntamos?",ham
+g762,"Unifica tus deudas con esta tasa especial",smishing
+g763,"Confirma tu presencia en la capacitación",ham
+g764,"Destaca tus ojos con nuestro nuevo rímel",smishing
+g765,"Accede con tu nueva clave temporal",ham
+g766,"Gana una gift card opinando sobre nuestro servicio",smishing
+g767,"Adjunta una copia de tu cédula",smishing
+g768,"Tu feedback nos ayuda a crecer",ham
+g769,"Baja el instructivo de operación",smishing
+g770,"Tu boleta de pago está disponible",ham
+g771,"Desintoxica tu cuerpo con estos jugos",smishing
+g772,"Elige el plan que más te convenga",ham
+g773,"Construyamos un refugio con tu apoyo",ham
+g774,"Disfruta horas de diversión familiar",smishing
+g775,"Felices Pascuas disfruta en familia",ham
+g776,"Agenda tu cita online",ham
+g777,"Monetiza tus conocimientos como instructor",smishing
+g778,"Evita el corte pagando hoy mismo",ham
+g779,"Atrae la suerte con este amuleto",smishing
+g780,"Gracias por pagar puntualmente",ham
+g781,"Descubre las claves de un negocio exitoso",smishing
+g782,"Revisa y aprueba el contrato digital",ham
+g783,"Pide tu muestra médica gratuita",smishing
+g784,"Rastrea tu envío con este código",ham
+g785,"Sorprende a tu pareja con este perfume",smishing
+g786,"Resolveremos tu caso a la brevedad",ham
+g787,"Invierte en bienes raíces con expertos",smishing
+g788,"Hola evaluemos tu perfil profesional",ham
+g789,"Ahorra en grande con nuestra cuenta VIP",smishing
+g790,"Asiste a la reunión de accionistas",ham
+g791,"Elimina el acné con este jabón natural",smishing
+g792,"Activa tu nueva tarjeta con una compra",ham
+g793,"Concierta y conoce a tu banda favorita",smishing
+g794,"Verifica la cuenta de depósito de tu nómina",smishing
+g795,"Agradecemos tus ideas de mejora",ham
+g796,"Baja nuestro mapa turístico gratuito",smishing
+g797,"Revisa tu saldo y próximas facturas",ham
+g798,"Prueba nuestro menú veggie",smishing
+g799,"Elige dónde recoger tu paquete",ham
+g800,"Súmate como voluntario y cambia realidades",ham
+g801,"Inspírate con estas frases motivacionales",smishing
+g802,"Feliz día mamá eres la mejor",ham
+g803,"Solicita tu seguro de desempleo",ham
+g804,"Hola renovemos tu guardarropa",smishing
+g805,"Disfruta los beneficios de ser socio",ham
+g806,"Descubre las últimas tendencias de moda",smishing
+g807,"Tu orden está lista para recoger",ham
+g808,"Aprende Photoshop desde cero",smishing
+g809,"Tu opinión sobre nuestro servicio nos interesa",ham
+g810,"Obtén reembolso de tus compras",smishing
+g811,"Informamos nuestros nuevos horarios",ham
+g812,"Gana puntos extra con nuestro club viajero",smishing
+g813,"Hola ¿en qué puedo asesorarte?",ham
+g814,"Asegura la educación de tus hijos desde hoy",smishing
+g815,"Evita la suspensión renueva tu licencia",smishing
+g816,"Gracias por confiar en nuestra asesoría",ham
+g817,"Ayúdanos a superar esta marca mundial",smishing
+g818,"Tu certificado de retenciones ya fue generado",ham
+g819,"Expresa tu talento con este set de pinceles",smishing
+g820,"Comprueba tu número telefónico",ham
+g821,"Mega ofertas solo por hoy",smishing
+g822,"Conoce cómo protegemos tus datos",ham
+g823,"Felicidades por tu ascenso",ham
+g824,"Paga hoy y evita intereses de mora",ham
+g825,"Postula a tu crush y gana una cita",smishing
+g826,"Gracias por ser parte de nuestro club",ham
+g827,"Entérate de los movimientos del mercado",smishing
+g828,"Extendimos tu membresía sin costo",ham
+g829,"Marca la diferencia con abdominales de acero",smishing
+g830,"Recordatorio: tu revisión médica anual",ham
+g831,"Gana dinero desde tu hogar",smishing
+g832,"Reclama aquí tu premio por tu compra",ham
+g833,"Canjea este cupón por un postre gratis",smishing
+g834,"Comparte conmigo tus ideas sobre el proyecto",ham
+g835,"Recibe tus compras hoy mismo",smishing
+g836,"Tu taxi al aeropuerto llegará en 10 minutos",ham
+g837,"Mantén tus defensas altas con vitamina C",smishing
+g838,"Gracias por postular suerte en tu búsqueda",ham
+g839,"Gana más referenciando esta oportunidad",smishing
+g840,"Hola coordinemos esa reunión pendiente",ham
+g841,"Reduce tus cuotas con nuestro plan especial",smishing
+g842,"Confirma tu participación en el simulacro",ham
+g843,"Realza tu mirada con nuestras sombras",smishing
+g844,"Tu nueva clave ya está operativa",ham
+g845,"Gana un kit gamer en nuestros sorteos",smishing
+g846,"Adjunta una foto de tu documento",smishing
+g847,"Buscamos mejorar con tus sugerencias",ham
+g848,"Baja aquí el manual de usuario",smishing
+g849,"Ya puedes descargar tu boleta de pago",ham
+g850,"Baja dos tallas con nuestros batidos",smishing
+g851,"Elige cómo quieres pagar",ham
+g852,"Salva una mascota adoptando",ham
+g853,"No te pierdas estos memes épicos",smishing
+g854,"Tu reembolso está en proceso",ham
+g855,"Gana comisiones por referir amigos",smishing
+g856,"No olvides tu cita para la limpieza dental",ham
+g857,"Pierde peso mientras duermes con este té",smishing
+g858,"Gracias por comprar con nosotros",ham
+g859,"Revisa tu puntaje crediticio gratis",smishing
+g860,"Necesito que firmes el NDA adjunto",ham
+g861,"Accede a ofertas solo para miembros",smishing
+g862,"Tu pedido está en ruta de entrega",ham
+g863,"Aumenta tu resistencia con estas pastillas",smishing
+g864,"Estamos revisando tu queja",ham
+g865,"Invierte en bonos gubernamentales hoy",smishing
+g866,"Hola ¿quieres tener una cita conmigo?",ham
+g867,"Financia tu compra con nuestro crédito",smishing
+g868,"Confirma tu asistencia al workshop",ham
+g869,"Luce un cabello de comercial con nuestro shampoo",smishing
+g870,"Tu membresía ha sido aprobada",ham
+g871,"Gana una gift card en nuestra rifa",smishing
+g872,"Por tu seguridad verificaremos tu identidad",smishing
+g873,"Tu feedback es valioso para nosotros",ham
+g874,"Baja nuestra app y gana puntos",smishing
+g875,"Tu balance mensual ya fue generado",ham
+g876,"Reduce tallas con nuestro plan detox",smishing
+g877,"Actualiza tu método de pago",ham
+g878,"Apoya esta noble causa con tu aporte",ham
+g879,"Mira estos chistosos videos de gatos",smishing
+g880,"Feliz cumpleaños pásala increíble",ham
+g881,"Adquiere nuestro seguro contra robos",smishing
+g882,"Hola seré tu nutricionista online",smishing
+g883,"Bienvenido al equipo",ham
+g884,"Últimas horas de cyber monday",smishing
+g885,"Tu habitación de hotel está lista",ham
+g886,"Encuentra tu paz interior con yoga",ham
+g887,"Cuéntanos qué te pareció el producto",smishing
+g888,"Baja este increíble wallpaper HD",smishing
+g889,"Tu solicitud de crédito fue denegada",ham
+g890,"Acumula reward points en cada compra",smishing
+g891,"Hola cotiza nuestros servicios aquí",ham
+g892,"Protege a tu familia con un seguro de salud",smishing
+g893,"Activa las notificaciones de nuestro boletín",smishing
+g894,"Gracias por preferirnos siempre",ham
+g895,"No te pierdas estos bloopers divertidos",smishing
+g896,"Descarga tu estado de cuenta aquí",ham
+g897,"Pon a prueba tu intelecto con sudokus",smishing
+g898,"Verifica y completa tu información personal",ham
+g899,"Solo hoy 50% de descuento en todo",smishing
+g900,"Lee nuestros nuevos términos de servicio",ham
+g901,"Felicidades obtuviste la beca",ham
+g902,"Agenda tu cita para el chequeo anual",ham
+g903,"Conoce solteros compatibles contigo",smishing
+g904,"Gracias por tu fidelidad",ham
+g905,"Entérate de las noticias más relevantes",smishing
+g906,"Felicidades tu crédito fue pre-aprobado",ham
+g907,"Marca los músculos de tus sueños",smishing
+g908,"Reconfirma tu cita en el spa",ham
+g909,"Trabaja desde casa sin experiencia",smishing
+g910,"Tu compra está protegida",ham
+g911,"Trae este cupón para un obsequio especial",smishing
+g912,"Envíame tus observaciones del reporte",ham
+g913,"Recibe tus envíos gratis por un año",smishing
+g914,"Tu maleta llegará en el próximo vuelo",ham
+g915,"Ten energía todo el día con nuestras cápsulas",smishing
+g916,"Gracias por postular te tendremos en cuenta",ham
+g917,"Obtén Bitcoin gratis con este truco",smishing
+g918,"Hola únete a nuestro dream team",ham
+g919,"Fracciona tus compras hasta 12 meses",smishing
+g920,"Asiste a la charla motivacional",ham
+g921,"Resalta tu belleza con nuestro labial",smishing
+g922,"Empeza a disfrutar tu suscripción",ham
+g923,"Concursa por entradas VIP al estreno",smishing
+g924,"Comprueba que eres mayor de edad",smishing
+g925,"Tus comentarios nos hacen mejores",ham
+g926,"Baja nuestro recetario gratis",smishing
+g927,"Revisa tus transacciones recientes",ham
+g928,"Adelgaza comiendo estos snacks",smishing
+g929,"Elige tu método de envío favorito",ham
+g930,"Cambia una vida apadrinando un niño",ham
+g931,"Despierta tu niño interior con Lego",smishing
+g932,"Feliz aniversario de bodas",ham
+g933,"Protege tu auto con nuestro seguro",smishing
+g934,"Hola optimicemos juntos tus finanzas",ham
+g935,"Gracias por unirte a nuestra comunidad virtual",ham
+g936,"Visita nuestra nueva colección",smishing
+g937,"Confirmamos el despacho de tu orden",ham
+g938,"Domina la oratoria con este curso",smishing
+g939,"Tu opinión sincera nos importa",ham
+g940,"Gana regalos con este código QR",smishing
+g941,"Comunicado: cambio temporal de sede",ham
+g942,"Acumula millas viajando con nosotros",smishing
+g943,"Hola resolveré todas tus consultas",ham
+g944,"Invierte en el futuro de tu retiro",smishing
+g945,"Valida tu mail para continuar",ham
+g946,"Gracias por tu paciencia",ham
+g947,"Rompe este récord y gana fama",smishing
+g948,"Tu certificado tributario está listo",ham
+g949,"Dibuja como un experto con estos tips",smishing
+g950,"Verifica tu número de teléfono",ham
+g951,"Flash sale todo debe irse",smishing
+g952,"Conoce nuestro compromiso con tu privacidad",ham
+g953,"Felicidades por tu desempeño sobresaliente",ham
+g954,"Paga a tiempo y mantén tu récord crediticio",ham
+g955,"Postúlate a este reality show",smishing
+g956,"Reclama aquí tu gift card de cumpleaños",ham
+g957,"Lee los insights clave de la industria",smishing
+g958,"Disfruta 30 días más de cortesía",ham
+g959,"Marca tu six-pack con nuestro gel",smishing
+g960,"Revisa los resultados de tus exámenes médicos",ham
+g961,"Gana probando productos como mystery shopper",smishing
+g962,"Gracias por comprar reclama tu cashback",ham
+g963,"Canjea aquí tu cupón de descuento",smishing
+g964,"Agrégame tus comentarios en el documento",ham
+g965,"Recibe tu súper en la puerta de tu casa",smishing
+g966,"Tu vuelo está confirmado",ham
+g967,"Fortalece tus defensas con este suplemento",smishing
+g968,"Gracias por tu interés te contactaremos pronto",ham
+g969,"Genera ingreso extra como freelancer",smishing
+g970,"Hola ¿cuándo nos juntamos?",ham
+g971,"Unifica tus deudas con esta tasa especial",smishing
+g972,"Confirma tu presencia en la capacitación",ham
+g973,"Destaca tus ojos con nuestro nuevo rímel",smishing
+g974,"Accede con tu nueva clave temporal",ham
+g975,"Gana una gift card opinando sobre nuestro servicio",smishing
+g976,"Adjunta una copia de tu cédula",smishing
+g977,"Tu feedback nos ayuda a crecer",ham
+g978,"Baja el instructivo de operación",smishing
+g979,"Tu boleta de pago está disponible",ham
+g980,"Desintoxica tu cuerpo con estos jugos",smishing
+g981,"Elige el plan que más te convenga",ham
+g982,"Construyamos un refugio con tu apoyo",ham
+g983,"Disfruta horas de diversión familiar",smishing
+g984,"Felices Pascuas disfruta en familia",ham
+g985,"Agenda tu cita online",ham
+g986,"Monetiza tus conocimientos como instructor",smishing
+g987,"Evita el corte pagando hoy mismo",ham
+g988,"Atrae la suerte con este amuleto",smishing
+g989,"Gracias por pagar puntualmente",ham
+g990,"Descubre las claves de un negocio exitoso",smishing
+g991,"Revisa y aprueba el contrato digital",ham
+g992,"Pide tu muestra médica gratuita",smishing
+g993,"Rastrea tu envío con este código",ham
+g994,"Sorprende a tu pareja con este perfume",smishing
+g995,"Resolveremos tu caso a la brevedad",ham
+g996,"Invierte en bienes raíces con expertos",smishing
+g997,"Hola evaluemos tu perfil profesional",ham
+g998,"Ahorra en grande con nuestra cuenta VIP",smishing
+g999,"Tu devolucion esta siendo procesada",ham
+g1000,"Gana dinero por compartir tus opiniones",smishing
+g1001,"Recordatorio de tu cita con el nutricionista",ham
+g1002,"Quema grasa abdominal con este suplemento",smishing
+g1003,"Agradecemos tu preferencia",ham
+g1004,"Obten tu score crediticio sin costo",smishing
+g1005,"Firma el acuerdo de confidencialidad adjunto",ham
+g1006,"Aprovecha descuentos exclusivos para ti",smishing
+g1007,"Confirmamos que recibimos tu pedido",ham
+g1008,"Desata tu potencial sexual con estas pastillas",smishing
+g1009,"Tu reclamo esta siendo atendido",ham
+g1010,"Invierte en commodities con bajo riesgo",smishing
+g1011,"Hola te gustaria conversar tomando un cafe",ham
+g1012,"Financia tus metas con nuestros prestamos",smishing
+g1013,"Confirma tu registro al seminario",ham
+g1014,"Recupera tu cabello con este tratamiento",smishing
+g1015,"Tu cuenta ha sido activada exitosamente",ham
+g1016,"Participa en el sorteo de un iPhone",smishing
+g1017,"Verifica tu identidad para proteger tu cuenta",smishing
+g1018,"Valoramos mucho tu retroalimentacion",ham
+g1019,"Usa nuestra app y acumula puntos canjeables",smishing
+g1020,"Revisa el estado de cuenta adjunto",ham
+g1021,"Pierde peso con nuestro reto de 30 dias",smishing
+g1022,"Actualiza tus preferencias de pago",ham
+g1023,"Tu donacion hara la diferencia",ham
+g1024,"Diviertete con estos memes de perros",smishing
+g1025,"Feliz cumpleanos que lo pases increible",ham
+g1026,"Protege tu hogar con nuestras camaras de seguridad",smishing
+g1027,"Hola sere tu asesor de imagen personal",smishing
+g1028,"Bienvenido a bordo",ham
+g1029,"Aprovecha las mega ofertas de fin de semana",smishing
+g1030,"Tu reservacion esta confirmada",ham
+g1031,"Encuentra tu equilibrio con meditacion",ham
+g1032,"Danos tu opinion sobre nuestro servicio",smishing
+g1033,"Personaliza tu movil con este fondo de pantalla",smishing
+g1034,"No calificaste para este prestamo",ham
+g1035,"Gana puntos por cada dolar que gastes",smishing
+g1036,"Hola te interesa cotizar un seguro?",ham
+g1037,"Cuida a los que amas con un seguro de vida",smishing
+g1038,"Suscribete y recibe nuestras promociones",smishing
+g1039,"Gracias por tu lealtad a nuestra marca",ham
+g1040,"No te pierdas estos videos virales",smishing
+g1041,"Tu factura ya esta disponible en linea",ham
+g1042,"Ejercita tu cerebro con acertijos diarios",smishing
+g1043,"Completa tu perfil para una mejor experiencia",ham
+g1044,"Hoy es el ultimo dia de descuentos",smishing
+g1045,"Conoce las actualizaciones a nuestras politicas",ham
+g1046,"Felicidades fuiste aceptado en la universidad",ham
+g1047,"Agenda tu revision medica anual",ham
+g1048,"Encuentra el amor con nuestra app de citas",smishing
+g1049,"En agradecimiento por tu preferencia",ham
+g1050,"Lee nuestro resumen diario de noticias",smishing
+g1051,"Felicidades estas pre-aprobado para un credito",ham
+g1052,"Presume un cuerpo tonificado este verano",smishing
+g1053,"Reconfirma tu reserva para el tratamiento",ham
+g1054,"Gana dinero siendo mystery shopper",smishing
+g1055,"Protegemos tus compras con garantia extendida",ham
+g1056,"Visita nuestra tienda y llevate un regalo",smishing
+g1057,"Revisa mis comentarios al borrador",ham
+g1058,"Recibe tus pedidos sin costo de envio",smishing
+g1059,"Tu equipaje arribara en el siguiente vuelo",ham
+g1060,"Manten alta tu energia con nuestras barritas",smishing
+g1061,"Gracias por tu interes en nuestra vacante",ham
+g1062,"Obten criptomonedas gratis con este link",smishing
+g1063,"Hola nos encantaria que te unas a nuestro equipo",ham
+g1064,"Divide tus pagos hasta en 24 meses",smishing
+g1065,"Asiste a nuestra conferencia anual",ham
+g1066,"Resalta tu belleza natural con nuestro maquillaje",smishing
+g1067,"Comienza a disfrutar tu membresia",ham
+g1068,"Gana boletos para la premiere de la pelicula",smishing
+g1069,"Verifica tu edad para acceder al contenido",smishing
+g1070,"Tus sugerencias nos ayudan a mejorar",ham
+g1071,"Baja nuestra guia de ejercicios gratis",smishing
+g1072,"Revisa tu historial de transacciones",ham
+g1073,"Baja de peso con nuestras ensaladas",smishing
+g1074,"Elige como quieres recibir tu pedido",ham
+g1075,"Brinda esperanza apadrinando un nino",ham
+g1076,"Regresa a tu infancia con estos juguetes",smishing
+g1077,"Feliz aniversario que sigan los exitos",ham
+g1078,"Maneja protegido con nuestro seguro vehicular",smishing
+g1079,"Hola planifiquemos juntos tus inversiones",ham
+g1080,"Gracias por unirte a nuestro newsletter",ham
+g1081,"No te pierdas las novedades de la temporada",smishing
+g1082,"Tu pedido ha sido despachado",ham
+g1083,"Domina el arte de hablar en publico",smishing
+g1084,"Ayudanos a mejorar con tu opinion sincera",ham
+g1085,"Escanea este codigo y gana descuentos",smishing
+g1086,"Informamos el cierre temporal de una sucursal",ham
+g1087,"Gana millas en tus viajes de trabajo",smishing
+g1088,"Hola te ayudo en lo que necesites",ham
+g1089,"Comienza a ahorrar para tu jubilacion",smishing
+g1090,"Verifica tu correo para continuar",ham
+g1091,"Gracias por tu comprension",ham
+g1092,"Se parte del record Guinness con nosotros",smishing
+g1093,"Tu certificado de ingresos ya fue emitido",ham
+g1094,"Despierta al artista que llevas dentro",smishing
+g1095,"Confirma tu numero celular en el sistema",ham
+g1096,"Liquidacion total precios de locura",smishing
+g1097,"Lee como protegemos tu informacion",ham
+g1098,"Felicidades eres el empleado del mes",ham
+g1099,"Evita cargos por mora pagando a tiempo",ham
+g1100,"Postulate a este reality y gana fama",smishing
+g1101,"Feliz cumpleanos de parte de todo el equipo",ham
+g1102,"Lee nuestro analisis semanal de la industria",ham
+g1103,"Disfruta 30 dias de servicio bonificado",ham
+g1104,"Marca abdominales de revista con este aparato",smishing
+g1105,"No olvides tu evaluacion medica de rutina",ham
+g1106,"Genera ingresos extras en tus tiempos libres",smishing
+g1107,"Gracias por tu compra y disfruta tu regalo",ham
+g1108,"Reclama aqui tu 2x1 para cenar",smishing
+g1109,"Agrega tus comentarios en el documento compartido",ham
+g1110,"Recibe hoy mismo tus compras del supermercado",smishing
+g1111,"Tu transfer al hotel te espera afuera",ham
+g1112,"Refuerza tus defensas con nuestras vitaminas",smishing
+g1113,"Gracias por postular te deseamos exitos",ham
+g1114,"Gana el triple con nuestro nuevo plan",smishing
+g1115,"Hola agendamos esa llamada pendiente?",ham
+g1116,"Unifica tus prestamos y paga menos intereses",smishing
+g1117,"Confirma tu participacion en el taller",ham
+g1118,"Destaca la profundidad de tu mirada",smishing
+g1119,"Cambia tu contrasena para mayor seguridad",ham
+g1120,"Gana un fin de semana de spa en nuestro concurso",smishing
+g1121,"Envia una copia de tu identificacion",smishing
+g1122,"Tus comentarios son valiosos para nosotros",ham
+g1123,"Baja el manual de instrucciones aqui",smishing
+g1124,"Tu boleta de pagos esta lista",ham
+g1125,"Desintoxica tu organismo con este batido verde",smishing
+g1126,"Elige el plan a tu medida",ham
+g1127,"Construyamos juntos un mundo mejor",ham
+g1128,"Diviertete en familia con nuestros juegos de mesa",smishing
+g1129,"Felices fiestas y prospero Ano Nuevo",ham
+g1130,"Agenda tu cita virtual aqui",ham
+g1131,"Comparte tu experiencia y gana dinero",smishing
+g1132,"No esperes al corte paga tu recibo hoy",ham
+g1133,"Atrae abundancia con estas velas aromaticas",smishing
+g1134,"Gracias por pagar a tiempo y mantener tu cuenta al dia",ham
+g1135,"Descubre las 10 claves del exito empresarial",smishing
+g1136,"Firma el convenio de manera digital",ham
+g1137,"Solicita tu muestra gratis aqui",smishing
+g1138,"Monitorea tu envio con este tracking",ham
+g1139,"Sorprende a tu amor con esta joya unica",smishing
+g1140,"Tu caso es prioritario para nosotros",ham
+g1141,"Invierte como los expertos con nuestras herramientas",smishing
+g1142,"Hola potenciemos juntos tu negocio",ham
+g1143,"Accede a beneficios exclusivos en nuestro club",smishing
+g1144,"Asiste a la junta de accionistas este viernes",ham
+g1145,"Elimina las imperfecciones con nuestro novo tratamiento",smishing
+g1146,"Activa tu nueva tarjeta con este codigo",ham
+g1147,"Gana tickets para el concierto del ano",smishing
+g1148,"Verifica tu numero de cuenta para el deposito",smishing
+g1149,"Tus comentarios constructivos nos hacen crecer",ham
+g1150,"Baja nuestro e-book de viajes imperdibles",smishing
+g1151,"Descarga tu estado de cuenta mensual",ham
+g1152,"Prueba nuestras nuevas opciones veganas",smishing
+g1153,"Elige donde recoger tus paquetes",ham
+g1154,"Transforma vidas con tu aporte voluntario",ham
+g1155,"Comienza tu dia con pensamientos positivos",smishing
+g1156,"Feliz dia mama gracias por tanto amor",ham
+g1157,"Haz tu reclamo de subsidio aqui",ham
+g1158,"Hola reinventa tu estilo con nosotros",smishing
+g1159,"Bienvenido a nuestro selecto grupo",ham
+g1160,"Visita nuestra nueva tienda online",smishing
+g1161,"Tu compra ya esta lista para retirar",ham
+g1162,"Aprende diseno grafico desde cero",smishing
+g1163,"Tu satisfaccion es nuestra meta",ham
+g1164,"Obten cashback en todas tus compras",smishing
+g1165,"Conoce los nuevos horarios de atencion",ham
+g1166,"Gana kms para tu proximo viaje",smishing
+g1167,"Hola estare feliz de asesorarte",ham
+g1168,"Comienza hoy a ahorrar para su futuro",smishing
+g1169,"Renueva tu membresia a tiempo",ham
+g1170,"Gracias por confiar en nuestros consejos",ham
+g1171,"Apoya esta causa solidaria con tu aporte",smishing
+g1172,"Genera tu certificado tributario electronico",ham
+g1173,"Despierta tu creatividad con nuestros cursos",smishing
+g1174,"Registra tu telefono en un clic",ham
+g1175,"Aprovecha las ofertas de ultimo minuto",smishing
+g1176,"Conoce nuestro compromiso con tu seguridad",ham
+g1177,"Felicidades te ascendieron a gerente",ham
+g1178,"Paga tu cuota antes del 30 y ahorra",ham
+g1179,"Postula a tu equipo favorito y gana",smishing
+g1180,"Gracias por ser un cliente fiel",ham
+g1181,"Descubre las empresas top para invertir",smishing
+g1182,"Extiende tu suscripcion sin costo extra",smishing
+g1183,"Marca la diferencia con tu rutina fitness",smishing
+g1184,"Recordatorio de tu consulta dental",ham
+g1185,"Gana regalos testeando productos nuevos",smishing
+g1186,"Reclama tu premio por cliente frecuente",ham
+g1187,"Canjea tu bono aqui",smishing
+g1188,"Comparte tus ideas sobre esta propuesta",ham
+g1189,"Recibe tu comida favorita en 30 minutos",smishing
+g1190,"Tu boleto de avion esta listo",ham
+g1191,"Mejorar tus defensas con probioticos",smishing
+g1192,"Gracias por postular te contactaremos pronto",ham
+g1193,"Gana el doble por tus referencias efectivas",smishing
+g1194,"Hola necesito que coordinemos esa junta",ham
+g1195,"Reduce tu hipoteca con este refinanciamiento",smishing
+g1196,"Confirma tu asistencia al taller de seguridad",ham
+g1197,"Realza la profundidad de tu mirada",smishing
+g1198,"Tu pin temporal es 3897",ham
+g1199,"Gana una consola participando en nuestra trivia",smishing
+g1200,"Envia una selfie con tu documento",smishing
+g1201,"Tus ideas nos inspiran a seguir mejorando",ham
+g1202,"Descarga el manual del usuario",smishing
+g1203,"Tu nomina esta disponible para descargar",ham
+g1204,"Baja 2 kilos por semana con nuestra dieta",smishing
+g1205,"Elige entre debito o credito",ham
+g1206,"Salva una vida donando sangre hoy",ham
+g1207,"No te pierdas las imagenes mas divertidas",smishing
