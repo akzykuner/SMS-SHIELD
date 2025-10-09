@@ -76,16 +76,16 @@ Android.
 #### 2.1.2 Modelo de Machine Learning
 - **Arquitectura**: Sistema basado en reglas con puntuación ponderada
 - **Características evaluadas**:
-  - Presencia de URLs (peso: 0.35)
-  - Palabras clave sospechosas (peso: 0.18)
-  - Emails detectados (peso: 0.12)
-  - Números y códigos (peso: 0.08)
-  - Montos monetarios (peso: 0.15)
-  - Longitud del mensaje (peso: 0.15)
-  - Ratio de mayúsculas (peso: 0.20)
-  - Múltiples exclamaciones (peso: 0.15)
-  - Palabras de urgencia (peso: 0.12)
-- **Umbral de clasificación**: 0.55 (optimizado para minimizar falsos positivos)
+  - Presencia de URLs
+  - Palabras clave sospechosas
+  - Emails detectados
+  - Números y códigos
+  - Montos monetarios
+  - Longitud del mensaje
+  - Ratio de mayúsculas
+  - Múltiples exclamaciones
+  - Palabras de urgencia
+- **Umbral de clasificación**: (optimizado para minimizar falsos positivos)
 - **Evaluación**: Validación con dataset
 
 #### 2.1.3 API REST
@@ -358,7 +358,7 @@ Lista de 50+ palabras clave que indican urgencia o presión:
 
 #### 4.3.1 Estructura del Código
 
-**Archivo**: `backend/ModeloML/rules_model.py` (431 líneas)
+**Archivo**: `backend/ModeloML/rules_model.py`
 
 ```python
 # Función principal
@@ -425,7 +425,7 @@ confidence = min(score / 0.55, 1.0) if smishing else 1.0 - score
 
 #### 4.4.1 Validación de URLs
 
-**Archivo**: `backend/utils/url_check.py` (311 líneas)
+**Archivo**: `backend/utils/url_check.py`
 
 ```python
 def is_suspicious_url(url: str) -> bool:
@@ -513,7 +513,7 @@ def test_classify_smishing_message():
     assert data["confidence"] > 0.7
 ```
 
-#### 5.3.2 Tests de PLN (57 tests)
+#### 5.3.2 Tests de PLN
 
 **Categorías:**
 - Preprocesamiento completo (8 tests)
