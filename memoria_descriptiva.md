@@ -23,9 +23,8 @@
 4. [Implementación de Componentes](#4-implementación-de-componentes)
 5. [Estrategia de Desarrollo TDD](#5-estrategia-de-desarrollo-tdd)
 6. [Resultados y Métricas](#6-resultados-y-métricas)
-7. [Cronología de Desarrollo](#7-cronología-de-desarrollo)
-8. [Plan de Fase 2](#8-plan-de-fase-2)
-9. [Instrucciones de Ejecución](#9-instrucciones-de-ejecución)
+7. [Plan de Fase 2](#8-plan-de-fase-2)
+8. [Instrucciones de Ejecución](#9-instrucciones-de-ejecución)
 
 ---
 
@@ -581,51 +580,6 @@ def test_integracion_flujo_completo():
     assert "urls" in result["details"]["indicators"]
 ```
 
-### 5.4 Cronología TDD por Componente
-
-#### Fase RED (Tests Fallidos)
-- **2025-10-06**: Commits iniciales con tests que fallan
-  - `085953f`: Estructura base del proyecto
-  - `0571d61`: Tests PLN (fase Red)
-  - `cca6e58`: Tests Modelo (fase Red)
-  - `0bafe7c`: Tests Integración (fase Red)
-  - `999db99`: Tests API (fase Red)
-
-#### Fase GREEN (Implementación Mínima)
-- **2025-10-07**: Implementación para pasar tests
-  - `f2cb4e3`: API - endpoints básicos (fase Green)
-  - `80ec0e9`: PLN - limpieza y extracción (fase Green)
-  - `042a08e`: Modelo - detector por reglas (fase Green)
-  - `fae6c21`: Integración - conectar componentes (fase Green)
-
-#### Fase REFACTOR (Optimización)
-- **2025-10-08**: Mejoras y optimizaciones
-  - `2e3331f`: API - tipado Pydantic (fase Refactor)
-  - `149d5af`: PLN - optimizar funciones (fase Refactor)
-  - `16f7cec`: Modelo - optimizar reglas (fase Refactor)
-  - `d099ffd`: Integración - optimizar utilidades (fase Refactor)
-
-### 5.5 Métricas de Calidad del Código
-
-```bash
-# Ejecutar tests con cobertura
-pytest tests/ -v --cov=backend --cov-report=html
-
-# Resultados:
-# - 144 tests pasando
-# - 0 tests fallidos
-# - Cobertura: 87.3%
-# - Tiempo ejecución: 2.34s
-```
-
-**Cobertura por módulo:**
-- `backend/api/main.py`: 92%
-- `backend/PLN/preprocessing.py`: 89%
-- `backend/ModeloML/rules_model.py`: 85%
-- `backend/utils/url_check.py`: 83%
-
----
-
 ## 6. Resultados y Métricas
 
 ### 6.1 Métricas de Testing
@@ -976,7 +930,6 @@ pytest tests/ -v
 
 ### Datasets y Recursos
 
-- [SMSSpamCollection Dataset](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 - [Phishing Detection Research](https://arxiv.org/abs/2007.14491)
 - [SMS Spam Detection Techniques](https://ieeexplore.ieee.org/)
 
